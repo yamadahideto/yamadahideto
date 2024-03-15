@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamadahideto&rank=-?)](https://github.com/yamadahideto/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yamadahideto&count_private=true&rank=-?)](https://github.com/yamadahideto/github-profile-trophy)
 
 
-[![yamadahideto's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamadahideto&include_all_commits)](https://github.com/yamadahideto/github-readme-stats)
+[![yamadahideto's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamadahideto&include_all_commits&count_private=true)](https://github.com/yamadahideto/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamadahideto&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamadahideto&layout=compact&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yamadahideto/yamadahideto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
